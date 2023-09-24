@@ -3,26 +3,26 @@
 	src: url("../files/fonts/dejavu/ttf/DejaVuSansMono.ttf");
 }
 :root {
-	--fg: #90ff90;
+	--fg: #405a85;
 	--shadow: 0 0 3px #80ffc066, 0 0 5px #0f63;
-	--link: #3e3;
-	--visited: #b9ffb0;
+	--link: #6588c2;
+	--visited: #4073c7;
 
-	--bg: #1d2021;
-	--bg2: black; --selection: #466639;
+	--bg: #405a85;
+	--bg2: black; --selection: #29508f;
 
 	--font-body: "DejaVu Sans", "Bitstream Vera Sans", "Verdana", sans-serif;
 	--font-mono: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo", monospace;
 	--font-accent: var(--font-mono);
 }
 .green {
-	--fg: #86ff86; /* hue 120, contrast 13:1 */
+	--fg: #405a85; /* hue 120, contrast 13:1 */
 	--shadow: 0 0 3px #80ffc066, 0 0 5px #0f63;
-	--link: #42f042; /* hue 120, contrast 10.75:1 */
-	--visited: #b7ffaf; /* hue 114, contrast 14:1 */
+	--link: #6588c2; /* hue 120, contrast 10.75:1 */
+	--visited: #4073c7; /* hue 114, contrast 14:1 */
 
 	--bg: #1d2021;
-	--selection: #466639;
+	--selection: #29508f;
 }
 .purple {
 	--fg: #f099ff; /* hue 291, contrast 8:1 */
@@ -40,7 +40,7 @@
 	--visited: #83baf1; /* hue 210, contrast 8:1 */
 
 	--bg: #1d2021;
-	--selection: #466639;
+	--selection: #29508f;
 }
 
 /* UTILITY CLASSES */
