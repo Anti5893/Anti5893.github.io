@@ -3,26 +3,26 @@
 	src: url("../files/fonts/dejavu/ttf/DejaVuSansMono.ttf");
 }
 :root {
-	--fg: #405a85;
-	--shadow: 0 0 3px #80ffc066, 0 0 5px #0f63;
-	--link: #6588c2;
-	--visited: #4073c7;
+	--fg: #00406C;
+	--shadow: 0 0 3px #00111C, 0 0 5px #001523;
+	--link: #003A61;
+	--visited: #003356;
 
-	--bg: #405a85;
-	--bg2: black; --selection: #29508f;
+	--bg: #1d2021;
+	--bg2: black; --selection: #002137;
 
 	--font-body: "DejaVu Sans", "Bitstream Vera Sans", "Verdana", sans-serif;
 	--font-mono: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo", monospace;
 	--font-accent: var(--font-mono);
 }
 .green {
-	--fg: #405a85; /* hue 120, contrast 13:1 */
-	--shadow: 0 0 3px #80ffc066, 0 0 5px #0f63;
-	--link: #6588c2; /* hue 120, contrast 10.75:1 */
-	--visited: #4073c7; /* hue 114, contrast 14:1 */
+	--fg: #001A2C; /* hue 120, contrast 13:1 */
+	--shadow: 0 0 3px #00111C, 0 0 5px #0f63;
+	--link: #003A61; /* hue 120, contrast 10.75:1 */
+	--visited: #003356; /* hue 114, contrast 14:1 */
 
 	--bg: #1d2021;
-	--selection: #29508f;
+	--selection: #002137;
 }
 .purple {
 	--fg: #f099ff; /* hue 291, contrast 8:1 */
@@ -40,7 +40,7 @@
 	--visited: #83baf1; /* hue 210, contrast 8:1 */
 
 	--bg: #1d2021;
-	--selection: #29508f;
+	--selection: #466639;
 }
 
 /* UTILITY CLASSES */
