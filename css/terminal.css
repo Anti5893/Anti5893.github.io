@@ -60,7 +60,7 @@ body {
 	text-shadow: var(--shadow);
 	font: 100%/1.6 var(--font-body);
 	margin: auto;
-	max-width: 90ch;
+	max-width: 75ch;
 	word-spacing: .05em;
 }
 ::selection {
@@ -109,7 +109,7 @@ h1::after {
 }
 h2 {
 	font: bold 141%/1 var(--font-accent);
-	margin: 0.4em 0 0 0;
+	margin: 0.2em 0 0 0;
 }
 h3 {
 	font: bold 117%/1 var(--font-accent);
@@ -121,14 +121,14 @@ header > nav {
 header > nav > ul {
 	font: 100%/1.5 var(--font-accent);
 	list-style-type: none;
-	margin: 0 0 0.4em 0;
+	margin: 0 0 0.2em 0;
 	padding: 0;
 }
 header > nav > ul > li {
 	display: inline;
 }
 header > nav > ul > li > a {
-	padding: 0.4em;
+	padding: 0.2em;
 }
 header > nav a.active {
 	background: var(--fg);
@@ -144,7 +144,7 @@ article {
 figure {
 	border: 1px solid;
 	margin: auto;
-	padding: 0.4em;
+	padding: 0.2em;
 	text-align: center;
 	width: min-content;
 }
@@ -157,7 +157,7 @@ figure.fullwidth > img {
 /* DETAILS */
 details {
 	border: 1px solid;
-	padding: 0.4em;
+	padding: 0.2em;
 }
 /* BLOCKQUOTE */
 blockquote,
@@ -168,7 +168,7 @@ pre {
 }
 /* TABLES */
 table {
-	margin: 0.4em;
+	margin: 0.2em;
 }
 tr:nth-of-type(odd) {
 	background: var(--bg);
@@ -180,11 +180,11 @@ tr td:first-child {
 	white-space: nowrap;
 }
 td {
-	padding: 0 0.4em;
+	padding: 0 0.2em;
 }
 th {
 	border: 1px solid;
-	padding: 0 0.4em;
+	padding: 0 0.2em;
 }
 table.center-cells td,
 table.center-cells th {
