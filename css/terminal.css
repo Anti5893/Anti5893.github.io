@@ -60,7 +60,7 @@ body {
 	text-shadow: var(--shadow);
 	font: 100%/1.6 var(--font-body);
 	margin: auto;
-	max-width: 75ch;
+	max-width: 85%;
 	word-spacing: .05em;
 }
 ::selection {
