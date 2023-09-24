@@ -16,28 +16,28 @@
 	--font-accent: var(--font-mono);
 }
 .green {
-	--fg: #001A2C; /* hue 120, contrast 13:1 */
+	--fg: #001A2C;
 	--shadow: 0 0 3px #00111C, 0 0 5px #0f63;
-	--link: #003A61; /* hue 120, contrast 10.75:1 */
-	--visited: #003356; /* hue 114, contrast 14:1 */
+	--link: #003A61;
+	--visited: #003356;
 
 	--bg: #1d2021;
 	--selection: #002137;
 }
 .purple {
-	--fg: #f099ff; /* hue 291, contrast 8:1 */
+	--fg: #f099ff;
 	--shadow: 0 0 3px #ff80f166, 0 0 5px #f0f3;
-	--link: #ff96e2; /* hue 317, contrast 8:1 */
-	--visited: #ff82d2; /* hue 322, contrast 7:1 */
+	--link: #ff96e2; 
+	--visited: #ff82d2;
 
 	--bg: #291f33;
 	--selection: #663963;
 }
 .cyan {
-	--fg: #90ffff; /* hue 180, contrast 14:1 */
+	--fg: #90ffff;
 	--shadow: 0 0 3px #0ff6, 0 0 5px #0ff3;
-	--link: #00f5f5; /* hue 180, contrast 12:1 */
-	--visited: #83baf1; /* hue 210, contrast 8:1 */
+	--link: #00f5f5;
+	--visited: #83baf1;
 
 	--bg: #1d2021;
 	--selection: #466639;
@@ -60,7 +60,7 @@ body {
 	text-shadow: var(--shadow);
 	font: 100%/1.6 var(--font-body);
 	margin: auto;
-	max-width: 75ch;
+	max-width: 90ch;
 	word-spacing: .05em;
 }
 ::selection {
