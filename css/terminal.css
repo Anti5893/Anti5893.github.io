@@ -11,8 +11,8 @@
 	--bg: #1d2021;
 	--bg2: black; --selection: #002137;
 
-	--font-body: "DejaVu Sans", "Bitstream Vera Sans", "Verdana", sans-serif;
-	--font-mono: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Menlo", monospace;
+	--font-body: "Bitstream Vera Sans", "Verdana", sans-serif;
+	--font-mono: "Bitstream Vera Sans Mono", "Menlo", monospace;
 	--font-accent: var(--font-mono);
 }
 .green {
