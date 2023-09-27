@@ -11,7 +11,7 @@
 	--font-mono: "Bitstream Vera Sans Mono", "Menlo", monospace;
 	--font-accent: var(--font-mono);
 }
-.green {
+.blue {
 	--fg: #001A2C;
 	--shadow: 0 0 3px #00111C, 0 0 5px #0f63;
 	--link: #003A61;
@@ -19,24 +19,6 @@
 
 	--bg: #1d2021;
 	--selection: #002137;
-}
-.purple {
-	--fg: #f099ff;
-	--shadow: 0 0 3px #ff80f166, 0 0 5px #f0f3;
-	--link: #ff96e2; 
-	--visited: #ff82d2;
-
-	--bg: #291f33;
-	--selection: #663963;
-}
-.cyan {
-	--fg: #90ffff;
-	--shadow: 0 0 3px #0ff6, 0 0 5px #0ff3;
-	--link: #00f5f5;
-	--visited: #83baf1;
-
-	--bg: #1d2021;
-	--selection: #466639;
 }
 
 /* UTILITY CLASSES */
@@ -185,10 +167,4 @@ th {
 table.center-cells td,
 table.center-cells th {
 	text-align: center;
-}
-/* DECORATIONS */
-#decor-moons {
-	float: right;
-	user-select: none;
-	overflow: hidden;
 }
