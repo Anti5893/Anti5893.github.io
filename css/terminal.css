@@ -1,10 +1,10 @@
 :root {
-	--fg: #4c639e;
+	--fg: #C9D1D5;
 	--shadow: 0 0 3px #00111C, 0 0 5px #001523;
-	--link: #4e9abf;
+	--link: #55C2C3;
 	--visited: #437791;
 
-	--bg: #202226;
+	--bg: #7E8C9C;
 	--bg2: black; --selection: #002137;
 
 	--font-body: "Bitstream Vera Sans", "Verdana", sans-serif;
@@ -12,12 +12,12 @@
 	--font-accent: var(--font-mono);
 }
 .blue {
-	--fg: #001A2C;
+	--fg: #0C243C;
 	--shadow: 0 0 3px #00111C, 0 0 5px #0f63;
-	--link: #003A61;
-	--visited: #003356;
+	--link: #55C2C3;
+	--visited: #437791;
 
-	--bg: #1d2021;
+	--bg: #0C243C;
 	--selection: #002137;
 }
 
