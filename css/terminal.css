@@ -1,11 +1,11 @@
 :root {
-	--fg: #4c639e;
+	--fg: #4ba0dd;
 	--shadow: 0 0 3px #00111C, 0 0 5px #001523;
 	--link: #4e9abf;
 	--visited: #437791;
 
-	--bg: #202226;
-	--bg2: black; --selection: #002137;
+	--bg: #0d0d2b;
+	--bg2: #3e3e4f; --selection: #002137;
 
 	--font-body: "Bitstream Vera Sans", "Verdana", sans-serif;
 	--font-mono: "Bitstream Vera Sans Mono", "Menlo", monospace;
