@@ -24,7 +24,7 @@ p {
   color: #333333;
 }
 
-.button {
+.navbutton {
   font-family: var(--font);
   background: rgba(0,0,0,0.0);
   border: none;
@@ -38,7 +38,7 @@ p {
 }
 
 
-.button:hover {
+.navbutton:hover {
   background-color: white;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
