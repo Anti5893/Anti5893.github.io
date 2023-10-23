@@ -23,14 +23,15 @@ p {
 }
 
 .button {
+  font-family: var(--font);
   background: rgba(0,0,0,0.0);
   border: none;
   color: black;
-  padding: 15px 32px;
+  padding: 90px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
   border-radius: 8px;
 }
 
