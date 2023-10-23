@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Gabarito:300:400);
 
 :root {
-    --font: "Gabarito";
+    --font: "Gabarito", sans-serif;
 }
   
 body {
@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-  font-family: var(--font), sans-serif;
+  font-family: var(--font);
   font-weight:300;
   letter-spacing: 2px;
   font-size:48px;
 }
 p {
-  font-family: var(--font), sans-serif;
+  font-family: var(--font);
   letter-spacing: 1px;
   font-size:14px;
   color: #333333;
